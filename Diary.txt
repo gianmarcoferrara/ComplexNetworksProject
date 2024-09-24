@@ -2,3 +2,5 @@
 
 - Read Article : https://arxiv.org/pdf/2401.12552
 - Configuration of Git 
+- Downloaded data for counties
+- Trying to filter datas using pandas
