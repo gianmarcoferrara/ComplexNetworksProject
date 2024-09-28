@@ -4,3 +4,7 @@
 - Configuration of Git 
 - Downloaded data for counties
 - Trying to filter datas using pandas
+
+28/09
+
+- Filter data using as documentation https://pandas.pydata.org/pandas-docs/stable/index.html
