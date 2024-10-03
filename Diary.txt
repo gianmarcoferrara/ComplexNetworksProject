@@ -8,3 +8,4 @@
 28/09
 
 - Filter data using as documentation https://pandas.pydata.org/pandas-docs/stable/index.html
+- New generating...cases.ipynb, this code generates a new column with the new daily cases for each county
