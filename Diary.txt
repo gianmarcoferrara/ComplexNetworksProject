@@ -12,3 +12,6 @@
 
 5/10
 -How to build the network
+
+11/10
+-Data Plot
