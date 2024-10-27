@@ -4,3 +4,4 @@ adjacency_matrix_2.csv filter=lfs diff=lfs merge=lfs -text
 adjacency_matrix_3.csv filter=lfs diff=lfs merge=lfs -text
 adjacency_matrix_4.csv filter=lfs diff=lfs merge=lfs -text
 adjacency_matrix_5.csv filter=lfs diff=lfs merge=lfs -text
+adjacency_matrix_6.csv filter=lfs diff=lfs merge=lfs -text
